@@ -1,0 +1,21 @@
+﻿a.classe1:link, a.classe1:visited {
+	text-decoration: none
+	}
+a.classe1:hover {
+	text-decoration: underline;
+	color: #f00;
+}
+a.classe1:active {
+	text-decoration: none
+	}
+
+a.classe2:link, a.classe2:visited {
+	text-decoration: underline overline
+	}
+a.classe2:hover {
+	text-decoration: underline;
+	color: #0f0;
+	}
+a.classe2:active {
+	text-decoration: underline overline
+	}
