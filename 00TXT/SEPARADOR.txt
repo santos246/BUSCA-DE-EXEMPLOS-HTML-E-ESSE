@@ -1,0 +1,1 @@
+﻿     <HR NOSHADE SIZE="3" color="red"> <HR NOSHADE SIZE="5" color="#00ff00"> <HR NOSHADE SIZE="8" color="#00ccff"> 
